@@ -6,6 +6,7 @@
 
 # Overlays
 PRODUCT_PACKAGES += \
+    AOSPALmiSettings \
     AOSPALmiSystemUI \
     LmiFrameworks \
     LmiSystemUI
