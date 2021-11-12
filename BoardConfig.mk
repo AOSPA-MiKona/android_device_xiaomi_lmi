@@ -15,7 +15,7 @@ BUILD_BROKEN_DUP_RULES := true
 TARGET_SCREEN_DENSITY := 440
 
 # Kernel
-KERNEL_DEFCONFIG := lmi_defconfig
+KERNEL_DEFCONFIG := lmi_user_defconfig
 
 # Inherit from the proprietary version
 include vendor/xiaomi/lmi/BoardConfigVendor.mk
